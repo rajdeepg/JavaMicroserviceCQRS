@@ -18,3 +18,4 @@ There is a lot of concepts here that we should use:
     d) Docker Container for MySQL Tools
 4) Axon Framework for all the Eventing and managing all the commands.
     a) <<TODO>> Plan to remove this at some point.
+    
